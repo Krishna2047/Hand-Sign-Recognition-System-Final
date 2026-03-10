@@ -1,0 +1,992 @@
+[
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "Emergency",
+    "language": "en"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "Emergency",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "NO",
+    "text": "No",
+    "language": "en"
+  },
+  {
+    "gesture": "HELP",
+    "text": "Help",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "en"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "No",
+    "language": "ta"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ta"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ta"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ta"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "te"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "Hello",
+    "language": "te"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "Hello",
+    "language": "te"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "te"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "te"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "te"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "te"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "te"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "te"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "te"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "Yes",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "Hello",
+    "language": "ml"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "Emergency",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "None",
+    "text": "",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+    "language": "ml"
+  },
+  {
+    "gesture": "HELP",
+    "text": "\u0d38\u0d39\u0d3e\u0d2f\u0d02",
+    "language": "ml"
+  },
+  {
+    "gesture": "HELP",
+    "text": "\u0d38\u0d39\u0d3e\u0d2f\u0d02",
+    "language": "ml"
+  },
+  {
+    "gesture": "HELP",
+    "text": "\u0d38\u0d39\u0d3e\u0d2f\u0d02",
+    "language": "ml"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "\u0d28\u0d2e\u0d38\u0d4d\u0d15\u0d3e\u0d30\u0d02",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0d05\u0d24\u0d46",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0d05\u0d24\u0d46",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0d05\u0d24\u0d46",
+    "language": "ml"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0d05\u0d24\u0d46",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0d28\u0d28\u0d4d\u0d26\u0d3f",
+    "language": "ml"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "Thank you",
+    "language": "en"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "Thank you",
+    "language": "en"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0b86\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0b86\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "DOCTOR",
+    "text": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "DOCTOR",
+    "text": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "\u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0b86\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "\u0b86\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "\u0b89\u0ba4\u0bb5\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "WATER",
+    "text": "\u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "\u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "\u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "\u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf",
+    "language": "ta"
+  }
+]
