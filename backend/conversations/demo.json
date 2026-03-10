@@ -1,497 +1,37 @@
 [
   {
-    "gesture": "EMERGENCY",
-    "text": "\u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bcd",
-    "language": "ta"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0b89\u0ba3\u0bb5\u0bc1",
-    "language": "ta"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0b89\u0ba3\u0bb5\u0bc1",
-    "language": "ta"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0b89\u0ba3\u0bb5\u0bc1",
-    "language": "ta"
-  },
-  {
-    "gesture": "EMERGENCY",
-    "text": "\u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bcd",
-    "language": "ta"
-  },
-  {
-    "gesture": "EMERGENCY",
-    "text": "\u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bcd",
-    "language": "ta"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
     "gesture": "THANK_YOU",
-    "text": "\u0c27\u0c28\u0c4d\u0c2f\u0c35\u0c3e\u0c26\u0c3e\u0c32\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "NO",
-    "text": "\u0c15\u0c3e\u0c26\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "NO",
-    "text": "\u0c15\u0c3e\u0c26\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
+    "text": "Thank you",
+    "language": "en"
   },
   {
     "gesture": "EMERGENCY",
-    "text": "\u0c05\u0c24\u0c4d\u0c2f\u0c35\u0c38\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "EMERGENCY",
-    "text": "\u0c05\u0c24\u0c4d\u0c2f\u0c35\u0c38\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "EMERGENCY",
-    "text": "\u0c05\u0c24\u0c4d\u0c2f\u0c35\u0c38\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
+    "text": "Emergency",
+    "language": "en"
   },
   {
     "gesture": "WATER",
-    "text": "\u0c28\u0c40\u0c30\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "NO",
-    "text": "\u0c15\u0c3e\u0c26\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "WATER",
-    "text": "\u0c28\u0c40\u0c30\u0c41",
-    "language": "te"
+    "text": "Water",
+    "language": "en"
   },
   {
     "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
+    "text": "Hello",
+    "language": "en"
   },
   {
     "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
+    "text": "Hello",
+    "language": "en"
   },
   {
     "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
+    "text": "Hello",
+    "language": "en"
   },
   {
     "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "THANK_YOU",
-    "text": "\u0c27\u0c28\u0c4d\u0c2f\u0c35\u0c3e\u0c26\u0c3e\u0c32\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "THANK_YOU",
-    "text": "\u0c27\u0c28\u0c4d\u0c2f\u0c35\u0c3e\u0c26\u0c3e\u0c32\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "HELLO",
-    "text": "\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "HELP",
-    "text": "\u0c38\u0c39\u0c3e\u0c2f\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "\u0c05\u0c35\u0c41\u0c28\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "\u0c06\u0c39\u0c3e\u0c30\u0c02",
-    "language": "te"
-  },
-  {
-    "gesture": "NO",
-    "text": "\u0c15\u0c3e\u0c26\u0c41",
-    "language": "te"
-  },
-  {
-    "gesture": "YES",
-    "text": "Yes",
+    "text": "Hello",
     "language": "en"
   },
   {
@@ -502,131 +42,431 @@
   {
     "gesture": "YES",
     "text": "Yes",
-    "language": "en"
-  },
-  {
-    "gesture": "YES",
-    "text": "Yes",
-    "language": "en"
-  },
-  {
-    "gesture": "NO",
-    "text": "No",
-    "language": "en"
-  },
-  {
-    "gesture": "NO",
-    "text": "No",
-    "language": "en"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
-  },
-  {
-    "gesture": "THANK_YOU",
-    "text": "Thank you",
-    "language": "en"
-  },
-  {
-    "gesture": "THANK_YOU",
-    "text": "Thank you",
-    "language": "en"
-  },
-  {
-    "gesture": "THANK_YOU",
-    "text": "Thank you",
-    "language": "en"
-  },
-  {
-    "gesture": "YES",
-    "text": "Yes",
-    "language": "en"
-  },
-  {
-    "gesture": "NO",
-    "text": "No",
-    "language": "en"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
-  },
-  {
-    "gesture": "HELP",
-    "text": "Help",
-    "language": "en"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
-  },
-  {
-    "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
-  },
-  {
-    "gesture": "HELP",
-    "text": "Help",
-    "language": "en"
-  },
-  {
-    "gesture": "THANK_YOU",
-    "text": "Thank you",
     "language": "en"
   },
   {
     "gesture": "EMERGENCY",
-    "text": "Emergency",
-    "language": "en"
+    "text": "அவசரம்",
+    "language": "ta"
   },
   {
     "gesture": "EMERGENCY",
-    "text": "Emergency",
-    "language": "en"
-  },
-  {
-    "gesture": "HELP",
-    "text": "Help",
-    "language": "en"
-  },
-  {
-    "gesture": "HELP",
-    "text": "Help",
-    "language": "en"
+    "text": "அவசரம்",
+    "language": "ta"
   },
   {
     "gesture": "EMERGENCY",
-    "text": "Emergency",
-    "language": "en"
+    "text": "அவசரம்",
+    "language": "ta"
   },
   {
     "gesture": "EMERGENCY",
-    "text": "Emergency",
-    "language": "en"
+    "text": "அவசரம்",
+    "language": "ta"
   },
   {
     "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
+    "text": "உணவு",
+    "language": "ta"
   },
   {
     "gesture": "FOOD",
-    "text": "Food",
-    "language": "en"
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "ஆம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "ஆம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "YES",
+    "text": "అవును",
+    "language": "te"
+  },
+  {
+    "gesture": "NO",
+    "text": "కాదు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "ఆహారం",
+    "language": "te"
+  },
+  {
+    "gesture": "YES",
+    "text": "అవును",
+    "language": "te"
+  },
+  {
+    "gesture": "YES",
+    "text": "అవును",
+    "language": "te"
+  },
+  {
+    "gesture": "HELP",
+    "text": "సహాయం",
+    "language": "te"
+  },
+  {
+    "gesture": "HELP",
+    "text": "సహాయం",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "YES",
+    "text": "అవును",
+    "language": "te"
+  },
+  {
+    "gesture": "NO",
+    "text": "కాదు",
+    "language": "te"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "ఆహారం",
+    "language": "te"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "అత్యవసరం",
+    "language": "te"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "అత్యవసరం",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "ఆహారం",
+    "language": "te"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "ఆహారం",
+    "language": "te"
+  },
+  {
+    "gesture": "HELP",
+    "text": "సహాయం",
+    "language": "te"
+  },
+  {
+    "gesture": "HELP",
+    "text": "సహాయం",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "అత్యవసరం",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "ధన్యవాదాలు",
+    "language": "te"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "అత్యవసరం",
+    "language": "te"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "ஆம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "ஆம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "ஆம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "ஆம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "YES",
+    "text": "ஆம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "NO",
+    "text": "இல்லை",
+    "language": "ta"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "FOOD",
+    "text": "உணவு",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "வணக்கம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELLO",
+    "text": "வணக்கம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "அவசரம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "அவசரம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "THANK_YOU",
+    "text": "நன்றி",
+    "language": "ta"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "அவசரம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "EMERGENCY",
+    "text": "அவசரம்",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
+  },
+  {
+    "gesture": "HELP",
+    "text": "உதவி",
+    "language": "ta"
   }
 ]

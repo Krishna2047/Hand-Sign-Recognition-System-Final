@@ -13,9 +13,14 @@ def save_conversation(user, gesture, text, language):
 
     data = []
 
+    # safely load existing data
     if os.path.exists(file_path):
-        with open(file_path, "r") as f:
-            data = json.load(f)
+
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except:
+            data = []
 
     data.append({
         "gesture": gesture,
@@ -23,8 +28,8 @@ def save_conversation(user, gesture, text, language):
         "language": language
     })
 
-    with open(file_path, "w") as f:
-        json.dump(data, f, indent=2)
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 
 def get_history(user):
@@ -34,5 +39,11 @@ def get_history(user):
     if not os.path.exists(file_path):
         return []
 
-    with open(file_path, "r") as f:
-        return json.load(f)
+    try:
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+
+    except:
+
+        return []
