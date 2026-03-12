@@ -1,0 +1,15 @@
+node_modules
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.env
+build
+dist
+*.h5
+*.pt
+*.pth
+*.ckpt

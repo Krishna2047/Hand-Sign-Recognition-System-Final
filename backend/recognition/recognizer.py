@@ -15,7 +15,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 MODEL_PATH = os.path.join(BASE_DIR, "model", "sign_model.h5")
 
 print("Loading gesture model...")
-model = load_model(MODEL_PATH)
+model = load_model(MODEL_PATH, compile=False)
 print("Model loaded successfully")
 
 
@@ -47,14 +47,25 @@ hands = mp_hands.Hands(
     min_tracking_confidence=0.6
 )
 
-# 🔒 lock to prevent mediapipe crashes
+# Thread lock to prevent mediapipe crash
 lock = threading.Lock()
+
+
+# =========================
+# Prediction smoothing
+# =========================
+last_prediction = "NONE"
+stable_count = 0
+STABLE_THRESHOLD = 3
 
 
 # =========================
 # Recognition
 # =========================
 def recognize(frame):
+
+    global last_prediction
+    global stable_count
 
     try:
 
@@ -65,32 +76,46 @@ def recognize(frame):
 
         img_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
-        # 🔒 critical section
         with lock:
             result = hands.process(img_rgb)
 
-        if result.multi_hand_landmarks:
+        if not result.multi_hand_landmarks:
+            last_prediction = "NONE"
+            stable_count = 0
+            return "NONE", 0.0
 
-            for handLms in result.multi_hand_landmarks:
+        for handLms in result.multi_hand_landmarks:
 
-                landmarks = []
+            landmarks = []
 
-                for lm in handLms.landmark:
-                    landmarks.extend([lm.x, lm.y, lm.z])
+            for lm in handLms.landmark:
+                landmarks.extend([lm.x, lm.y, lm.z])
 
-                data = np.array(landmarks).reshape(1, -1)
+            data = np.array(landmarks).reshape(1, -1)
 
-                prediction = model.predict(data, verbose=0)
+            prediction = model.predict(data, verbose=0)
 
-                class_id = int(np.argmax(prediction))
-                confidence = float(np.max(prediction))
+            class_id = int(np.argmax(prediction))
+            confidence = float(np.max(prediction))
 
-                if class_id >= len(classes):
-                    return "NONE", 0.0
+            if class_id >= len(classes):
+                return "NONE", 0.0
 
-                gesture = classes[class_id]
+            gesture = classes[class_id]
 
-                return gesture, confidence
+            # =========================
+            # Flicker smoothing
+            # =========================
+            if gesture == last_prediction:
+                stable_count += 1
+            else:
+                stable_count = 0
+                last_prediction = gesture
+
+            if stable_count < STABLE_THRESHOLD:
+                return "NONE", 0.0
+
+            return gesture, confidence
 
         return "NONE", 0.0
 

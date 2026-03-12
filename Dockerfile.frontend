@@ -1,0 +1,23 @@
+FROM node:18
+
+WORKDIR /app
+
+# copy package files
+COPY frontend/web-ui/package.json ./
+COPY frontend/web-ui/package-lock.json ./
+
+# install dependencies
+RUN npm install
+
+# copy frontend source
+COPY frontend/web-ui/ .
+
+# build React app
+RUN npm run build
+
+# install static server
+RUN npm install -g serve
+
+EXPOSE 3000
+
+CMD ["serve","-s","build","-l","3000"]

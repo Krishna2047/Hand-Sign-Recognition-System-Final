@@ -171,3 +171,23 @@ def history(user: str):
 def shutdown_event():
     print("Cleaning audio files...")
     cleanup_static()
+
+
+
+@app.delete("/history/{user}")
+def clear_history(user: str):
+
+    try:
+
+        file_path = os.path.join("backend", "conversations", f"{user}.json")
+
+        if os.path.exists(file_path):
+            os.remove(file_path)
+
+        return {"message": "Conversation cleared"}
+
+    except Exception as e:
+
+        print("Clear history error:", e)
+
+        return {"message": "Error clearing history"}

@@ -1,0 +1,28 @@
+FROM python:3.10
+
+WORKDIR /app
+
+# Install system libraries required by OpenCV
+RUN apt-get update && apt-get install -y \
+    libgl1 \
+    libglib2.0-0 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy project files
+COPY backend /app/backend
+COPY config /app/config
+COPY model /app/model
+
+# Install Python dependencies
+RUN pip install --no-cache-dir \
+    fastapi \
+    uvicorn \
+    numpy \
+    opencv-python-headless \
+    mediapipe \
+    tensorflow \
+    gtts
+
+EXPOSE 9000
+
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "9000"]
